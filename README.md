@@ -13,6 +13,8 @@ For more details about the mathematical model and results, see:
 * Watson, L. M. (2022) Simulating the impact of vaccination rates on the initial stages of a COVID-19 outbreak in New Zealand (Aotearoa) with a stochastic model, _New Zealand Medical Journal_. Available from medRxiv: [https://doi.org/10.1101/2021.11.22.21266721](https://doi.org/10.1101/2021.11.22.21266721)
 * Watson, L. M. (2022) Likelihood of infecting or getting infected with COVID-19 as a function of vaccination status, as investigated with a stochastic model for Aotearoa New Zealand for Delta and Omicron variants, _New Zealand Medical Journal_. Available from medRxiv: [https://doi.org/10.1101/2021.11.28.21266967](https://doi.org/10.1101/2021.11.28.21266967).
 
+The first release, corresponding to the version used in the papers above, is archived at Zenodo with a DOI: [![DOI](https://zenodo.org/badge/176619362.svg)](https://zenodo.org/badge/latestdoi/176619362)
+
 ### How do I get set up? ###
 * Clone this respository to your local directory and run the script file
 * Codes to analyze simulation results, and previous simulation results, are availabe at [https://osf.io/gnc9v/](https://osf.io/gnc9v/). 
