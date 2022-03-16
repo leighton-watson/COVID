@@ -15,7 +15,7 @@ For more details about the mathematical model and results, see:
 
 ### How do I get set up? ###
 * Clone this respository to your local directory and run the script file
-* Codes to analyze simulation results, and previous simulation results, are availabe at [https://osf.io/gnc9v/]{https://osf.io/gnc9v/}. 
+* Codes to analyze simulation results, and previous simulation results, are availabe at [https://osf.io/gnc9v/](https://osf.io/gnc9v/). 
 
 ### Who do I talk to? ###
 * Leighton Watson: leighton.watson@canterbury.ac.nz
